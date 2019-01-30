@@ -39,7 +39,7 @@ int main()
 	cout << "Program has ended"<<endl;
 
 	system("pause");
-	
+	//mad
 
 	//Displays purpose of the second part of the program
 	cout << "This program takes in distance in miles and returns it in kilometers" << endl;
